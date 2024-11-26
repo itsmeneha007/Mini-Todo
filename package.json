@@ -1,0 +1,26 @@
+{
+  "name": "mini-todo",
+  "version": "1.0.0",
+  "description": "mini todo assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsmeneha007/Mini-Todo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itsmeneha007/Mini-Todo/issues"
+  },
+  "homepage": "https://github.com/itsmeneha007/Mini-Todo#readme",
+  "dependencies": {
+    "express": "^4.21.1",
+    "mongoose": "^8.8.2"
+  }
+  
+  
+}
